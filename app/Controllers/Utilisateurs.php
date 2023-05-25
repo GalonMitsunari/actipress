@@ -38,9 +38,9 @@ class Utilisateurs extends Controller
 		$model = new utModel();
 		$ref = $this->request->getVar('id_utilisateur');
 		$data = [
-			'Nom'=> $this->request->getVar('fabNom'),
+			'Nom'=> $this->request->getVar('Nom'),
 			'Prenom'=> $this->request->getVar('Prenom'),
-			'Numero_tel_pro'=> $this->request->getVar('fabCoord'),
+			'Numero_tel_pro'=> $this->request->getVar('Numero_tel_pro'),
 		];
 		$save = $model->update($ref, $data);
 		return redirect()->to(base_url('utilisateurs/lister'));
@@ -50,9 +50,9 @@ class Utilisateurs extends Controller
 		$model = new utModel();
 		$data = [
 			'id_utilisateur'=> $this->request->getVar('id_utilisateur'),
-			'Nom'=> $this->request->getVar('fabNom'),
+			'Nom'=> $this->request->getVar('Nom'),
 			'Prenom'=> $this->request->getVar('Prenom'),
-			'Numero_tel_pro'=> $this->request->getVar('fabCoord'),
+			'Numero_tel_pro'=> $this->request->getVar('Numero_tel_pro'),
 		];
 		$save = $model->insert($data);
 		return redirect()->to(base_url('utilisateurs/lister'));
