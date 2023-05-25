@@ -1,0 +1,69 @@
+
+body{
+    background-color: white !important;
+}
+header{
+    background-color: #161A16;
+}
+button{
+    position: absolute;
+    left: 90%;
+    top: .5vh;
+    background-color: rgb(81, 216, 81);
+    border: 1px solid #161A16;
+    border-radius: .5rem;
+    padding: .66rem;
+    cursor: Pointer;
+}
+button:hover{
+    background-color: #161A16;
+    color: white;
+    border-color: rgb(81, 216, 81);
+    transition: .33s;
+}
+nav{
+    width: 15vw;
+    height: 100vh;
+    background-color: #161A16;
+    display: flex;
+    flex-direction: column;
+}
+nav a{
+    font-size: x-large;
+    color: white;
+    padding: 1rem;
+    border-bottom: 1.5px white solid;
+    text-decoration: none;
+}
+nav a:hover{
+    margin-left: 1rem;
+    cursor: pointer;
+    transition: .33s;
+}
+.container{
+    display: flex;
+}
+
+.contain{
+    width: 85vw;
+    height: 90vh;
+}
+.contain h2{
+    text-align: center;
+    margin-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    letter-spacing: 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.img{
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 100%;
+}
+
+.contain h1{
+    text-align: center;
+}

@@ -1,0 +1,122 @@
+CRITICAL - 2023-05-02 13:17:05 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:21 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:23 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:23 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:27 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:53 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:54 --> Object of class stdClass could not be converted to string
+in APPPATH\Views\Home.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 4 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:17:57 --> Undefined property: stdClass::$pseudo
+in APPPATH\Controllers\Login.php on line 57.
+ 1 APPPATH\Controllers\Login.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$pseudo', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Login.php', 57)
+ 2 APPPATH\Controllers\Login.php(26): App\Controllers\Login->canSendTo('mitsunari')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:22:53 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Views\template\header.php on line 91.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('template/header', [], true)
+ 3 APPPATH\Controllers\HomeView.php(9): view('template/header')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:24:42 --> Undefined variable $_SESSION
+in APPPATH\Views\template\header.php on line 89.
+ 1 APPPATH\Views\template\header.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $_SESSION', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\template\\header.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\template\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('template/header', [], true)
+ 5 APPPATH\Controllers\HomeView.php(9): view('template/header')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:24:59 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\Home.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php', 2)
+ 2 APPPATH\Views\Home.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 6 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-02 13:25:14 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\Home.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php', 2)
+ 2 APPPATH\Views\Home.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 6 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

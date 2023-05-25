@@ -1,0 +1,148 @@
+ body {
+            background-color: #322B2B;
+        }
+        
+        @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+         :root {
+            --font-style: 'Nunito Sans', sans-serif;
+        }
+        
+        body {
+            font-family: var(--font-style);
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+            position: absolute;
+            width: 443px;
+            height: 440px;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: #151515;
+            box-shadow: 0px 1px 4px #B72C2C;
+            border-radius: 35px;
+        }
+        
+        h1 {
+            color: white;
+            margin: auto;
+        }
+        
+        input {
+            width: 75%;
+            margin: auto;
+            background-color: #DBBDBD;
+            padding: 2%;
+            border-radius: 25px;
+            border: 0;
+        }
+        
+        input::placeholder {
+            color: #333030;
+        }
+        
+        button {
+            width: 20%;
+            padding: 1%;
+            border-radius: 25px;
+            color: white;
+            background-color: #B72C2C;
+            border: 0;
+            margin: auto;
+            cursor: pointer;
+        }
+
+
+.titreprincipal {
+    color : #CBBDDB;
+}
+
+.titrefinal {
+    color : #CBBDDB;
+}
+
+#pied {
+    color: #ffffff;
+}
+
+.titre {
+    margin-left: 3%;
+    display: flex;
+}
+
+.user {
+    margin-left: auto ;
+    margin-right: 30px;
+    display: flex;
+    gap: 10px;
+}
+
+.map{
+   margin-left: 72%;
+   margin-top: 5%;
+   
+
+}
+
+.col-size {
+    margin-top: 8%;
+    margin-left: 10%;
+    width: 40%;
+    /*height: 950px;*/
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: contrast(200%);
+    border-radius: 30px;
+}
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+.widget-block{ 
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    margin: 20px auto;
+    background: #fff;
+    border: 1px solid #c6c6c6;
+}
+.widget-head{ 
+    padding: 10px 12px;  
+    background: #00aaff;
+    color: #fff;
+}
+.widget-body{
+    padding: 10px 12px;
+}
+.widget-head h1{
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+}
+.widget-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.widget-link{
+    text-decoration: none;
+}
+.widget-source-time{
+    color: #000;
+}
+.widget-item {
+    list-style: none;
+    margin-bottom: 10px;
+}
+.widget-item p {
+    margin: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.widget-title {
+    color: #000;
+    margin: 0;
+}

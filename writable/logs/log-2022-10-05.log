@@ -1,0 +1,77 @@
+CRITICAL - 2022-10-05 11:36:38 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:36:41 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:43:39 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:43:40 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:43:40 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:43:40 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-05 11:45:12 --> Undefined variable $title
+in APPPATH\Views\Pages\login.php on line 5.
+ 1 APPPATH\Views\Pages\login.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'APPPATH\\Views\\Pages\\login.php', 5)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Pages\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/login', [], true)
+ 5 APPPATH\Controllers\Login.php(9): view('pages/login')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Login->signer()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

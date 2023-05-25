@@ -1,0 +1,7 @@
+CRITICAL - 2023-05-05 00:38:08 --> Undefined variable $_SESSION
+in APPPATH\Controllers\Message.php on line 62.
+ 1 APPPATH\Controllers\Message.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $_SESSION', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 62)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->send()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

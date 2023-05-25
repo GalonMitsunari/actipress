@@ -1,0 +1,176 @@
+ERROR - 2023-04-20 15:52:59 --> mysqli_sql_exception: Table 'actipress.utilisateur' doesn't exist in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id...')
+#3 C:\xampp\htdocs\actipress\app\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id...')
+#4 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-20 15:52:59 --> Table 'actipress.utilisateur' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 4 APPPATH\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-20 15:53:20 --> mysqli_sql_exception: Table 'actipress.utilisateur' doesn't exist in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id...')
+#3 C:\xampp\htdocs\actipress\app\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id...')
+#4 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-20 15:53:20 --> Table 'actipress.utilisateur' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 4 APPPATH\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-20 15:53:22 --> mysqli_sql_exception: Table 'actipress.utilisateur' doesn't exist in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id...')
+#3 C:\xampp\htdocs\actipress\app\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id...')
+#4 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-20 15:53:22 --> Table 'actipress.utilisateur' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 4 APPPATH\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-20 15:53:36 --> mysqli_sql_exception: Table 'actipress.utilisateur' doesn't exist in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id...')
+#3 C:\xampp\htdocs\actipress\app\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id...')
+#4 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-20 15:53:36 --> Table 'actipress.utilisateur' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 4 APPPATH\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id_utilsateur) from utilisateur where Pseudo = "fsqf" AND Mdp_clair = "dsqdsq";')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-20 15:54:14 --> mysqli_sql_exception: Unknown column 'id_utilsateur' in 'field list' in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id...')
+#3 C:\xampp\htdocs\actipress\app\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id...')
+#4 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-04-20 15:54:14 --> Unknown column 'id_utilsateur' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('Select count(id_utilsateur) from utilisateurs where Pseudo = "fsdfsd" AND Mdp_clair = "gdsgsd";', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('Select count(id_utilsateur) from utilisateurs where Pseudo = "fsdfsd" AND Mdp_clair = "gdsgsd";')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('Select count(id_utilsateur) from utilisateurs where Pseudo = "fsdfsd" AND Mdp_clair = "gdsgsd";')
+ 4 APPPATH\Controllers\Login.php(14): CodeIgniter\Database\BaseConnection->query('Select count(id_utilsateur) from utilisateurs where Pseudo = "fsdfsd" AND Mdp_clair = "gdsgsd";')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:18:49 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Controllers\Login.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:20:20 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Controllers\Login.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:27:20 --> Object of class stdClass could not be converted to int
+in APPPATH\Controllers\Login.php on line 20.
+ 1 APPPATH\Controllers\Login.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class stdClass could not be converted to int', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Login.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:27:37 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Login.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:27:58 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Login.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:28:47 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Login.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:28:55 --> Object of class stdClass could not be converted to string
+in APPPATH\Controllers\Login.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:29:05 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Login.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:41:41 --> Undefined variable $_SESSION
+in APPPATH\Views\Home.php on line 2.
+ 1 APPPATH\Views\Home.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $_SESSION', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php', 2)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 5 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-20 16:42:00 --> Undefined array key "pseudo"
+in APPPATH\Views\Home.php on line 3.
+ 1 APPPATH\Views\Home.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pseudo"', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php', 3)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 5 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

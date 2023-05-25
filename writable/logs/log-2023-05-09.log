@@ -1,0 +1,102 @@
+ERROR - 2023-05-09 07:13:29 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:173
+Stack trace:
+#0 /var/www/html/actipress/system/Database/MySQLi/Connection.php(173): mysqli->real_connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#6 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-05-09 07:13:29 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-09 07:17:28 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:173
+Stack trace:
+#0 /var/www/html/actipress/system/Database/MySQLi/Connection.php(173): mysqli->real_connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#6 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-05-09 07:17:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-09 07:21:08 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:173
+Stack trace:
+#0 /var/www/html/actipress/system/Database/MySQLi/Connection.php(173): mysqli->real_connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#3 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#6 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /var/www/html/actipress/system/Database/MySQLi/Connection.php:218
+Stack trace:
+#0 /var/www/html/actipress/system/Database/BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /var/www/html/actipress/system/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+#2 /var/www/html/actipress/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+#3 /var/www/html/actipress/app/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+#4 /var/www/html/actipress/system/CodeIgniter.php(934): App\Controllers\Login->logIn()
+#5 /var/www/html/actipress/system/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/actipress/system/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/actipress/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-05-09 07:21:08 --> Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+in SYSTEMPATH/Database/BaseConnection.php on line 427.
+ 1 SYSTEMPATH/Database/BaseConnection.php(573): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query()
+ 3 APPPATH/Controllers/Login.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/CodeIgniter.php(934): App\Controllers\Login->logIn()
+ 5 SYSTEMPATH/CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

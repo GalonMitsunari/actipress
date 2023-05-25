@@ -1,0 +1,425 @@
+CRITICAL - 2023-05-04 17:24:16 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:11 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:19 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:25 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:32 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:33 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:33 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:33 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:33 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:33 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:34 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:34 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:34 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:34 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:34 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:35 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:29:35 --> Too few arguments to function App\Controllers\Message::sendTo(), 0 passed in C:\xampp\htdocs\actipress\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Message.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->sendTo()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:32:45 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\test.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 2)
+ 2 APPPATH\Views\test.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Message.php(10): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:33:53 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\test.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 2)
+ 2 APPPATH\Views\test.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Message.php(11): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MedchIV')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:34:38 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\test.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 2)
+ 2 APPPATH\Views\test.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Message.php(11): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('aaa')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:48:25 --> syntax error, unexpected token "}", expecting "," or ";"
+in APPPATH\Views\test.php on line 10.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 3 APPPATH\Controllers\Message.php(13): view('test')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MechVI')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:49:24 --> Undefined variable $_SESSION
+in APPPATH\Controllers\Message.php on line 8.
+ 1 APPPATH\Controllers\Message.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $_SESSION', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 8)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MechVI')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:49:52 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\test.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 2)
+ 2 APPPATH\Views\test.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Message.php(12): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MechVI')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:49:53 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\test.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 2)
+ 2 APPPATH\Views\test.php(2): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 6 APPPATH\Controllers\Message.php(12): view('test')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MechVI')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:49:59 --> Undefined variable $_SESSION
+in APPPATH\Controllers\Message.php on line 8.
+ 1 APPPATH\Controllers\Message.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $_SESSION', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 8)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('MechVI')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 17:55:02 --> Undefined array key "pseudo"
+in APPPATH\Views\test.php on line 6.
+ 1 APPPATH\Views\test.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pseudo"', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php', 6)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\test.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('test', [], true)
+ 5 APPPATH\Controllers\Message.php(11): view('test')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index('brek')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 18:45:45 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Views\sendMessage.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php', 12)
+ 2 APPPATH\Views\sendMessage.php(12): session_start()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('sendMessage', [], true)
+ 6 APPPATH\Controllers\Message.php(9): view('sendMessage')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-04 20:19:54 --> mysqli_sql_exception: Unknown column 'id' in 'field list' in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 C:\xampp\htdocs\actipress\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 C:\xampp\htdocs\actipress\app\Controllers\Message.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\actipress\app\Controllers\Message.php(27): App\Controllers\Message->setIdReciever('mitsunari')
+#6 C:\xampp\htdocs\actipress\app\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+#7 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+#8 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+#9 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-05-04 20:19:55 --> Unknown column 'id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `utilisateurs`
+WHERE `pseudo` = :pseudo:', [...], false)
+ 5 APPPATH\Controllers\Message.php(49): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Message.php(27): App\Controllers\Message->setIdReciever('mitsunari')
+ 7 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-04 20:20:28 --> mysqli_sql_exception: Unknown column 'id_utilisateurs' in 'field list' in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id_util...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_util...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_util...')
+#3 C:\xampp\htdocs\actipress\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id_util...', Array, false)
+#4 C:\xampp\htdocs\actipress\app\Controllers\Message.php(49): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\actipress\app\Controllers\Message.php(27): App\Controllers\Message->setIdReciever('mitsunari')
+#6 C:\xampp\htdocs\actipress\app\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+#7 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+#8 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+#9 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-05-04 20:20:28 --> Unknown column 'id_utilisateurs' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id_utilisateurs`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id_utilisateurs`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id_utilisateurs`
+FROM `utilisateurs`
+WHERE `pseudo` = \'mitsunari\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id_utilisateurs`
+FROM `utilisateurs`
+WHERE `pseudo` = :pseudo:', [...], false)
+ 5 APPPATH\Controllers\Message.php(49): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Message.php(27): App\Controllers\Message->setIdReciever('mitsunari')
+ 7 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:21:18 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Message.php on line 51.
+ 1 APPPATH\Controllers\Message.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 51)
+ 2 APPPATH\Controllers\Message.php(27): App\Controllers\Message->setIdReciever('mitsunari')
+ 3 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:21:42 --> Undefined array key "id"
+in APPPATH\Controllers\Message.php on line 28.
+ 1 APPPATH\Controllers\Message.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 28)
+ 2 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:22:19 --> session_start(): Ignoring session_start() because a session is already active
+in APPPATH\Controllers\Message.php on line 24.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8, 'session_start(): Ignoring session_start() because a session is already active', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 24)
+ 2 APPPATH\Controllers\Message.php(24): session_start()
+ 3 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:22:32 --> Undefined array key "id"
+in APPPATH\Controllers\Message.php on line 28.
+ 1 APPPATH\Controllers\Message.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 28)
+ 2 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:23:34 --> Undefined array key "id"
+in APPPATH\Controllers\Message.php on line 28.
+ 1 APPPATH\Controllers\Message.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php', 28)
+ 2 APPPATH\Controllers\Message.php(19): App\Controllers\Message->setMessage()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:25:43 --> Undefined array key "id"
+in APPPATH\Views\Home.php on line 25.
+ 1 APPPATH\Views\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\Home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('Home', [], true)
+ 5 APPPATH\Controllers\HomeView.php(10): view('Home')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\HomeView::index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeView))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-04 20:27:36 --> mysqli_sql_exception: Unknown column 'utilisateurs.id_utilisateurs' in 'on clause' in C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\actipress\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `sujet`,...', 0)
+#1 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sujet`,...')
+#2 C:\xampp\htdocs\actipress\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sujet`,...')
+#3 C:\xampp\htdocs\actipress\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `sujet`,...', Array, false)
+#4 C:\xampp\htdocs\actipress\app\Controllers\Message.php(38): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\actipress\app\Controllers\Message.php(21): App\Controllers\Message->setMessage()
+#6 C:\xampp\htdocs\actipress\system\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+#7 C:\xampp\htdocs\actipress\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+#8 C:\xampp\htdocs\actipress\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\actipress\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-04 20:27:36 --> Unknown column 'utilisateurs.id_utilisateurs' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `sujet`, `contenue`, `message`.`idEmetteur` as `emetteur`, `message`.`dateEnvoie` as `date`
+FROM `message`
+JOIN `utilisateurs` ON `message`.`idDestinataire` = `utilisateurs`.`id_utilisateurs`
+WHERE (`message`.`idDestinataire` = 1 AND `message`.`idEmetteur` = 4) OR 
+            (`message`.`idDestinataire` = 4 AND `message`.`idEmetteur` = 1)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sujet`, `contenue`, `message`.`idEmetteur` as `emetteur`, `message`.`dateEnvoie` as `date`
+FROM `message`
+JOIN `utilisateurs` ON `message`.`idDestinataire` = `utilisateurs`.`id_utilisateurs`
+WHERE (`message`.`idDestinataire` = 1 AND `message`.`idEmetteur` = 4) OR 
+            (`message`.`idDestinataire` = 4 AND `message`.`idEmetteur` = 1)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sujet`, `contenue`, `message`.`idEmetteur` as `emetteur`, `message`.`dateEnvoie` as `date`
+FROM `message`
+JOIN `utilisateurs` ON `message`.`idDestinataire` = `utilisateurs`.`id_utilisateurs`
+WHERE (`message`.`idDestinataire` = 1 AND `message`.`idEmetteur` = 4) OR 
+            (`message`.`idDestinataire` = 4 AND `message`.`idEmetteur` = 1)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `sujet`, `contenue`, `message`.`idEmetteur` as `emetteur`, `message`.`dateEnvoie` as `date`
+FROM `message`
+JOIN `utilisateurs` ON `message`.`idDestinataire` = `utilisateurs`.`id_utilisateurs`
+WHERE (`message`.`idDestinataire` = 1 AND `message`.`idEmetteur` = 4) OR 
+            (`message`.`idDestinataire` = 4 AND `message`.`idEmetteur` = 1)', [], false)
+ 5 APPPATH\Controllers\Message.php(38): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Message.php(21): App\Controllers\Message->setMessage()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->setReciever('mitsunari')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:30:37 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Message.php on line 40.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\actipress\\app\\Controllers\\Message.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Message')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Message')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Message', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:41:56 --> Undefined array key "content"
+in APPPATH\Views\sendMessage.php on line 48.
+ 1 APPPATH\Views\sendMessage.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "content"', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php', 48)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('sendMessage', [], true)
+ 5 APPPATH\Controllers\Message.php(9): view('sendMessage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:42:23 --> Attempt to read property "content" on array
+in APPPATH\Views\sendMessage.php on line 48.
+ 1 APPPATH\Views\sendMessage.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "content" on array', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php', 48)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('sendMessage', [], true)
+ 5 APPPATH\Controllers\Message.php(9): view('sendMessage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:45:28 --> Undefined array key "content"
+in APPPATH\Views\sendMessage.php on line 48.
+ 1 APPPATH\Views\sendMessage.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "content"', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php', 48)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('sendMessage', [], true)
+ 5 APPPATH\Controllers\Message.php(9): view('sendMessage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-04 20:48:00 --> Undefined variable $values
+in APPPATH\Views\sendMessage.php on line 44.
+ 1 APPPATH\Views\sendMessage.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $values', 'C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php', 44)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\actipress\\app\\Views\\sendMessage.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('sendMessage', [], true)
+ 5 APPPATH\Controllers\Message.php(9): view('sendMessage')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
